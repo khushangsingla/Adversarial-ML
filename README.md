@@ -10,6 +10,9 @@ Adversarial-ML
     │   ├── GTSRB_defensive.ipynb
     │   └── GTSRB_model_training.ipynb
     ├── ImageNet
+    │   ├── imagenet_adv.ipynb
+    │   ├── imagenet_data_collection.ipynb
+    │   └── Images
     ├── README.md
     └── SMS_spam
         ├── SPAM_adverserial_attack.ipynb
@@ -26,6 +29,12 @@ Adversarial-ML
 - GTSRB/GTSRB_model_training.ipynb
 
     This notebook has code for the adversarial attack on SMS for spam classification.
+- ImageNet/imagenet_adv.ipynb
+
+    This notebook has code for the adversarial attack on ResNet50 for a [subset of ImageNet](https://docs.voxel51.com/user_guide/dataset_zoo/datasets.html#imagenet-sample) using Gradient Ascent.
+- ImageNet/imagenet_data_collection.ipynb
+
+    This notebook has code for data collection pertaining to the adversarial attack on ResNet50.
 - SMS_SPAM/SPAM_adversarial_attack.ipynb
 
     This notebook contains the model used for adversarial attacks.
