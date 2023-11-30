@@ -3,6 +3,8 @@ This project was about exploring various techniques of adversarial attacks and d
 
 Link to Presentation: https://docs.google.com/presentation/d/1ur1dAlllRn1_w_sxVUNhjUQXDi6CGmi9x7VDnufalZI/edit?usp=sharing
 
+Link to Report: https://drive.google.com/file/d/1KB8Hw9X_jScD8-1wHaCAkLtusAiOdI_r/view?usp=sharing
+
 ## Files
 
 ```bash
