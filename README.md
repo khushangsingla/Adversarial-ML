@@ -1,6 +1,8 @@
 # Adversarial-ML
 This project was about exploring various techniques of adversarial attacks and defenses as part of CS337 course project.
 
+Link to Presentation: https://docs.google.com/presentation/d/1ur1dAlllRn1_w_sxVUNhjUQXDi6CGmi9x7VDnufalZI/edit?usp=sharing
+
 ## Files
 
 ```bash
@@ -38,3 +40,10 @@ Adversarial-ML
 - SMS_SPAM/SPAM_adversarial_attack.ipynb
 
     This notebook contains the model used for adversarial attacks.
+
+## Team Members
+- Aman Sharma	        	210100011
+- Kevin P. Baua			210050084
+- Khushang Singla	       	210050085
+- Pratham Garg 	    	210050121
+- Siddharth Patil	    	21d070071
